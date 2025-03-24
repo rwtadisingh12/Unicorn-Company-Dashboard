@@ -16,6 +16,7 @@ This project analyzes unicorn companies (startups valued at over $1 billion) to 
 
 - **Format:** CSV
 - **Key Fields:** Company, Valuation, Funding, Industry, Country, Year Established, Date Joined Unicorn Group, Investors, etc.
+- **Screenshot:** https://github.com/rwtadisingh12/Unicorn-Company-Dashboard/blob/main/Unicorn%20Company%20Analysis.png
 
 ## 🛠 Data Cleaning Process
 
